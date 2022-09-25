@@ -7,4 +7,3 @@
     <br>沉思往事立斜阳，当时只道是寻常。<br>谁念西风独自凉，萧萧黄叶闭疏窗。
   </body>
   </html>
-  [mch.zip](https://github.com/yhscyd/yhscyd.github.io/files/9640203/mch.zip)
