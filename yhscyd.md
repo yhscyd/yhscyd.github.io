@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -8,3 +7,4 @@
     <br>沉思往事立斜阳，当时只道是寻常。<br>谁念西风独自凉，萧萧黄叶闭疏窗。
   </body>
   </html>
+file:///Users/mac/Desktop/chap1-demo-1.html
